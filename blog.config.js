@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
+  title: 'Bangladeshi Students Society in Vienna 🇧🇩 🇦🇹',
+  author: 'Khasrur Ratin',
   email: 'i@craigary.net',
   link: 'https://khasrur.vercel.app',
   description: 'This gonna be an awesome website.',
